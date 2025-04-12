@@ -12,6 +12,7 @@ function App() {
             alt="Profile"
             className="w-48 h-48 rounded-full object-cover mb-8 border-4 border-blue-500"
           />
+          <h1 className="text-5xl font-bold mb-4"><b>NDUMISO MTHEMBU </b></h1>
           <h1 className="text-5xl font-bold mb-4">Intermediate Full-Stack Developer</h1>
           <p className="text-xl text-gray-300 max-w-2xl">
             Third-year student passionate about building robust applications and exploring the frontiers of AI & Machine Learning.
